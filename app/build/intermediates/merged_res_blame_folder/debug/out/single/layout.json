@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.nabilRadioFrance.radio.app-mergeDebugResources-29:/layout/activity_main.xml",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-mergeDebugResources-29:/layout/activity_liste_radio.xml",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/layout/activity_liste_radio.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-mergeDebugResources-29:/layout/radiolist.xml",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/layout/radiolist.xml"
+    }
+]

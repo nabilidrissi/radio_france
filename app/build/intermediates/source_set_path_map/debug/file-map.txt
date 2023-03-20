@@ -1,0 +1,33 @@
+com.nabilRadioFrance.radio.app-cardview-1.0.0-0 C:\Users\lenovo\.gradle\caches\transforms-3\0a287c0fc9a8c7daf0a54c4ad4c9c0da\transformed\cardview-1.0.0\res
+com.nabilRadioFrance.radio.app-fragment-1.3.6-1 C:\Users\lenovo\.gradle\caches\transforms-3\19991cd3cc56af5eb545e7d33ad93544\transformed\fragment-1.3.6\res
+com.nabilRadioFrance.radio.app-core-1.7.0-2 C:\Users\lenovo\.gradle\caches\transforms-3\290535f1c2980cc90435c7580259c88a\transformed\core-1.7.0\res
+com.nabilRadioFrance.radio.app-jetified-appcompat-resources-1.4.2-3 C:\Users\lenovo\.gradle\caches\transforms-3\31377415f005bb71a21010c7bccdde0d\transformed\jetified-appcompat-resources-1.4.2\res
+com.nabilRadioFrance.radio.app-recyclerview-1.1.0-4 C:\Users\lenovo\.gradle\caches\transforms-3\35eeb4ab8d8702f8c4a6aa4a318fa5ac\transformed\recyclerview-1.1.0\res
+com.nabilRadioFrance.radio.app-jetified-savedstate-1.1.0-5 C:\Users\lenovo\.gradle\caches\transforms-3\3cf12eb3efa4ed0c989e5075231f3e46\transformed\jetified-savedstate-1.1.0\res
+com.nabilRadioFrance.radio.app-lifecycle-viewmodel-2.3.1-6 C:\Users\lenovo\.gradle\caches\transforms-3\4afeb6e84bf701f285614a238e9c65a8\transformed\lifecycle-viewmodel-2.3.1\res
+com.nabilRadioFrance.radio.app-jetified-lottie-4.2.2-7 C:\Users\lenovo\.gradle\caches\transforms-3\5dc52b04eeca1c4fd4cbe0cacee4763f\transformed\jetified-lottie-4.2.2\res
+com.nabilRadioFrance.radio.app-databinding-runtime-7.3.0-alpha01-8 C:\Users\lenovo\.gradle\caches\transforms-3\611a382ea0934fedf3ef6faadd198188\transformed\databinding-runtime-7.3.0-alpha01\res
+com.nabilRadioFrance.radio.app-coordinatorlayout-1.1.0-9 C:\Users\lenovo\.gradle\caches\transforms-3\733e9c1486455189ba30b75b6cb62ff4\transformed\coordinatorlayout-1.1.0\res
+com.nabilRadioFrance.radio.app-databinding-adapters-7.3.0-alpha01-10 C:\Users\lenovo\.gradle\caches\transforms-3\83f04a38f9531ea0d54522d58fd78ad8\transformed\databinding-adapters-7.3.0-alpha01\res
+com.nabilRadioFrance.radio.app-jetified-emoji2-1.0.0-11 C:\Users\lenovo\.gradle\caches\transforms-3\94630c45e8ebd4940025344afa13412a\transformed\jetified-emoji2-1.0.0\res
+com.nabilRadioFrance.radio.app-jetified-viewpager2-1.0.0-12 C:\Users\lenovo\.gradle\caches\transforms-3\97cda2845c4d5e6edbde0285bca2c668\transformed\jetified-viewpager2-1.0.0\res
+com.nabilRadioFrance.radio.app-jetified-exoplayer-ui-2.10.4-13 C:\Users\lenovo\.gradle\caches\transforms-3\9bf4a7621d27ca3fd2b8f1ef6f50afed\transformed\jetified-exoplayer-ui-2.10.4\res
+com.nabilRadioFrance.radio.app-appcompat-1.4.2-14 C:\Users\lenovo\.gradle\caches\transforms-3\aff41881ee156f855e354bb615b84bb5\transformed\appcompat-1.4.2\res
+com.nabilRadioFrance.radio.app-jetified-emoji2-views-helper-1.0.0-15 C:\Users\lenovo\.gradle\caches\transforms-3\bbbd2947465b7cd89ea0e0c91d6fdeb9\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.nabilRadioFrance.radio.app-constraintlayout-2.1.4-16 C:\Users\lenovo\.gradle\caches\transforms-3\bf54845b0ab75c335db42ebf3eeef9be\transformed\constraintlayout-2.1.4\res
+com.nabilRadioFrance.radio.app-jetified-annotation-experimental-1.1.0-17 C:\Users\lenovo\.gradle\caches\transforms-3\c58d377e63a7389379d69b5cc0808d34\transformed\jetified-annotation-experimental-1.1.0\res
+com.nabilRadioFrance.radio.app-lifecycle-runtime-2.4.0-18 C:\Users\lenovo\.gradle\caches\transforms-3\c921601dd3527751b2b926188fe26325\transformed\lifecycle-runtime-2.4.0\res
+com.nabilRadioFrance.radio.app-media-1.0.1-19 C:\Users\lenovo\.gradle\caches\transforms-3\cd5b51962b9ec4d95acfba9cfec778bd\transformed\media-1.0.1\res
+com.nabilRadioFrance.radio.app-jetified-startup-runtime-1.0.0-20 C:\Users\lenovo\.gradle\caches\transforms-3\d387db9c7a436e2615de199fc16be63d\transformed\jetified-startup-runtime-1.0.0\res
+com.nabilRadioFrance.radio.app-transition-1.2.0-21 C:\Users\lenovo\.gradle\caches\transforms-3\d911044ae2d04a58dce934f13274237f\transformed\transition-1.2.0\res
+com.nabilRadioFrance.radio.app-jetified-lifecycle-process-2.4.0-22 C:\Users\lenovo\.gradle\caches\transforms-3\da249581765db5ba6c0abbcb49937ed2\transformed\jetified-lifecycle-process-2.4.0\res
+com.nabilRadioFrance.radio.app-drawerlayout-1.1.1-23 C:\Users\lenovo\.gradle\caches\transforms-3\e5ffafce5c6a3d770e0144b9f3464aed\transformed\drawerlayout-1.1.1\res
+com.nabilRadioFrance.radio.app-material-1.6.1-24 C:\Users\lenovo\.gradle\caches\transforms-3\efb0ec9393960cd9452d505d4296cd35\transformed\material-1.6.1\res
+com.nabilRadioFrance.radio.app-pngs-25 C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\build\generated\res\pngs\debug
+com.nabilRadioFrance.radio.app-resValues-26 C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\build\generated\res\resValues\debug
+com.nabilRadioFrance.radio.app-rs-27 C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\build\generated\res\rs\debug
+com.nabilRadioFrance.radio.app-mergeDebugResources-28 C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.nabilRadioFrance.radio.app-mergeDebugResources-29 C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.nabilRadioFrance.radio.app-merged_res-30 C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\build\intermediates\merged_res\debug
+com.nabilRadioFrance.radio.app-debug-31 C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\debug\res
+com.nabilRadioFrance.radio.app-main-32 C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\res

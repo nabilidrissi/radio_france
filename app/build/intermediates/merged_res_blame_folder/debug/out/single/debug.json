@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_oui_fm.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/oui_fm.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_fip_disquaire.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/fip_disquaire.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_skyrock.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/skyrock.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_rmc.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/rmc.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/layout_radiolist.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/layout/radiolist.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_virgin_radio.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/virgin_radio.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_radioicone.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/radioicone.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_bfm_business.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/bfm_business.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_ic_logo.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_fun_radio_france.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/fun_radio_france.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_france_culture.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/france_culture.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_jazz_radio.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/jazz_radio.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_ic_play.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_cherie_fm.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/cherie_fm.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_fip.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/fip.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_france_inter.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/france_inter.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_nrj_france.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/nrj_france.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/layout_activity_liste_radio.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/layout/activity_liste_radio.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_radio_classique.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/radio_classique.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_ic_pause.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_rire_chansons.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/rire_chansons.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_fip_jazz.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/fip_jazz.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_fip_monde.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/fip_monde.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_france_musique.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/france_musique.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_rfm.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/rfm.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_fip_groove.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/fip_groove.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_m_radio.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/m_radio.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_fip_rock.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/fip_rock.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_rtl_2.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/rtl_2.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_rtl.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/rtl.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_fip_electro.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/fip_electro.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_ic_note.xml.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/ic_note.xml"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_france_info.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/france_info.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_bg.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/bg.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_nostalgie_france.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/nostalgie_france.png"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/drawable_europe1.jpg.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/drawable/europe1.jpg"
+    },
+    {
+        "merged": "com.nabilRadioFrance.radio.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.nabilRadioFrance.radio.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

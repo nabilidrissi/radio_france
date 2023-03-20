@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nabilRadioFrance.radio"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:7:5-79
+11-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:7:22-76
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:9:5-67
+13-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:9:22-64
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:10:5-68
+14-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:10:22-65
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:11:5-75
+15-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:11:22-72
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:12:5-77
+16-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:12:22-74
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:7:5-79
+17-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:7:22-76
+18
+19    <application
+19-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:15:5-44:19
+20        android:name="com.nabilRadioFrance.radio.App"
+20-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:16:9-54
+21        android:allowBackup="true"
+21-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:17:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.7.0] C:\Users\lenovo\.gradle\caches\transforms-3\290535f1c2980cc90435c7580259c88a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@drawable/radioicone"
+24-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:18:9-44
+25        android:label="@string/app_name"
+25-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:19:9-41
+26        android:supportsRtl="true"
+26-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:20:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme"
+28-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:21:9-40
+29        android:usesCleartextTraffic="true" >
+29-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:22:9-44
+30        <activity
+30-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:24:9-31:36
+31            android:name="com.nabilRadioFrance.radio.ListeRadio"
+31-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:25:13-65
+32            android:exported="true" >
+32-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:26:13-36
+33            <intent-filter>
+33-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:27:9-31:25
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:28:13-65
+34-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:28:21-62
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:30:13-73
+36-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:30:23-70
+37            </intent-filter>
+38        </activity>
+39
+40        <service android:name="com.nabilRadioFrance.radio.MyService" />
+40-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:33:9-72
+40-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:33:18-69
+41
+42        <uses-library
+42-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:35:9-37:40
+43            android:name="org.apache.http.legacy"
+43-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:36:13-50
+44            android:required="false" />
+44-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:37:13-37
+45
+46        <activity
+46-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:39:9-43:20
+47            android:name="com.nabilRadioFrance.radio.MainActivity"
+47-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:40:13-67
+48            android:exported="true" >
+48-->C:\Users\lenovo\Desktop\Enveronement de devellopement\Radio_Streaming_France\app\src\main\AndroidManifest.xml:41:13-36
+49        </activity>
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\94630c45e8ebd4940025344afa13412a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\94630c45e8ebd4940025344afa13412a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+53            android:authorities="com.nabilRadioFrance.radio.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\94630c45e8ebd4940025344afa13412a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\94630c45e8ebd4940025344afa13412a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\94630c45e8ebd4940025344afa13412a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\94630c45e8ebd4940025344afa13412a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\94630c45e8ebd4940025344afa13412a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\da249581765db5ba6c0abbcb49937ed2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\da249581765db5ba6c0abbcb49937ed2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lenovo\.gradle\caches\transforms-3\da249581765db5ba6c0abbcb49937ed2\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+61        </provider>
+62    </application>
+63
+64</manifest>
